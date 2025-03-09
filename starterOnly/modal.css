@@ -90,8 +90,6 @@ img {
   }
 }
 
-
-
  @media screen and (max-width: 540px) {
   .topnav a {display: none;}
   .topnav a.icon {
@@ -111,7 +109,6 @@ main {
   margin: 1px 20px 15px;
   border-radius: 2rem;
   text-align: justify;
-
 
 }
 
@@ -527,3 +524,32 @@ footer {
   }
 }
 
+/* code mercredi 29 Janvier 2025 */
+
+.formData {
+  margin-bottom: 10px;
+}
+
+.error-message {
+  color: red;
+  font-size: 0.9em;
+  display: none; /* Caché par défaut */
+}
+
+/* code jeudi 30 Janvier 2025 */
+
+/*  .error-message {
+  color: red;
+  font-size: 14px;
+}
+
+
+
+
+/* Jeudi 27 février 2025 nouveau test   
+
+input[type="checkbox"] {
+  position: relative;
+  z-index: 10;
+  pointer-events: auto;
+} */
